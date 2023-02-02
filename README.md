@@ -1,4 +1,5 @@
 # Computational Grounded Theory
+
 This code replicates the analysis done in the article [Computational Grounded Theory: A Methodological Framework](http://journals.sagepub.com/doi/abs/10.1177/0049124117729703) in *Sociological Methods and Research* (online publication November, 2017).
 
 
